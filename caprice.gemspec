@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name        = "tommy"
-  s.version     = "0.0.2"
-  s.summary     = "Tommy gem"
+  s.name        = "caprice"
+  s.version     = "0.0.1"
+  s.summary     = "Caprice gem"
   s.description = "A simple hello world gem"
   s.authors     = ["Tommy Jeff"]
   s.email       = "threcius@yahoo.com"
-  s.files       = ["lib/tommy.rb"]
+  s.files       = ["lib/caprice.rb"]
   s.homepage    =
-    "https://rubygems.org/gems/tommy"
+    "https://rubygems.org/gems/caprice"
   s.license     = "MIT"
 end
